@@ -20,6 +20,7 @@ A simple News App
 </table>
 
 <h4> Used Technologies</h4>
+<p> MVVM </p>
 <p> Kotlin </p>
 <p> Retrofit </p>
 <p> Room Databse </p>
